@@ -89,6 +89,16 @@ We welcome contributions from the community! If you'd like to contribute to the 
 If you have any questions, suggestions, or feedback, feel free to reach out to the authors:
 
 - **Junbo Lian**
+  - Email: <script type="text/javascript">document.write("junbo" + "@" + "qq.com");</script>
+
+- **Ali Asghar Heidari**
+  - Email: <script type="text/javascript">document.write("as_heidari" + "@" + "ut.ac.ir");</script>
+
+- **Huiling Chen**
+  - Email: <script type="text/javascript">document.write("chenhuiling.jlu" + "@" + "gmail.com");</script>
+
+
+- **Junbo Lian**
   - Email: [junbolian@qq.com](mailto:junbolian@qq.com)
 
 - **Ali Asghar Heidari**
