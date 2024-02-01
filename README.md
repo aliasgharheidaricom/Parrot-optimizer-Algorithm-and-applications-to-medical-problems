@@ -79,6 +79,9 @@ Explore the applications of the Parrot Optimizer in medical image segmentation:
 
 For detailed experiments, evaluation metrics, and results, refer to the [Applications.md](applications.md) file.
 
+![Flowchart of MTIS Method](The%20flowchart%20of%20MTIS%20method.png)
+
+
 
 ## Contributing
 
