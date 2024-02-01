@@ -53,6 +53,14 @@ This repository houses the implementation of the PO algorithm, introduced and de
 [N, Max_iter, lb, ub, dim, fobj] = set_your_parameters();
 [avg_fitness_curve, Best_pos, Best_score, curve, search_history, fitness_history] = PO(N, Max_iter, lb, ub, dim, fobj); 
 
+**Note:**
+Please replace set_your_parameters() with appropriate parameter values based on your optimization problem.
+
+Ensure that the objective function (fobj) is defined according to your optimization task.
+
+Feel free to explore and utilize the Parrot Optimizer for your optimization needs. If you have any questions or feedback, please reach out to the authors.
+
+Thank you for your interest in the Parrot Optimizer!
 
 ## Key Features
 
