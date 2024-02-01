@@ -26,29 +26,24 @@ This repository houses the implementation of the PO algorithm, introduced and de
 - Benchmarking against popular algorithms.
 - Adaptability demonstrated in engineering design, disease diagnosis, and medical image segmentation.
 
-## Getting Started
 
-To quickly get started with the Parrot Optimizer, follow the steps in the [Getting Started Guide](GettingStarted.md). This guide includes installation instructions and prerequisites to help you set up the PO for your optimization tasks.
+# Applications
 
-## Usage Examples
+Explore the applications of the Parrot Optimizer in medical image segmentation:
 
-Explore the [Usage Examples](Examples.md) section to see how the Parrot Optimizer can be applied to various optimization problems. Code snippets and explanations are provided to guide you through the process.
+- [Multi-Threshold Image Segmentation (MTIS)](Applications.md#multi-threshold-image-segmentation-mtis)
+  - Learn about our approach combining non-local mean filtering, 2D histograms, Kapur entropy, and the Parrot Optimizer for enhanced segmentation of histopathology microscopy images.
 
-## Performance Metrics
+For detailed experiments, evaluation metrics, and results, refer to the [Applications.md](Applications.md) file.
 
-Learn about the performance metrics used in the experiments by visiting the [Performance Metrics](PerformanceMetrics.md) section. Gain insights into how the Parrot Optimizer outperformed other algorithms in the conducted experiments.
-
-## Visualization
-
-Visualize the performance of the Parrot Optimizer with plots and graphs in the [Visualization](Visualization.md) section. These visuals provide a clear understanding of its effectiveness on specific optimization tasks.
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to the Parrot Optimizer project, please follow the guidelines in the [Contributing](CONTRIBUTING.md) document. We appreciate your input!
+We welcome contributions from the community! If you'd like to contribute to the Parrot Optimizer project, please contact as_heidari@ut.ac.ir
 
 ## Acknowledgments
 
-We extend our gratitude to all contributors and organizations that supported the development of the Parrot Optimizer. Check out the [Acknowledgments](Acknowledgments.md) section for a list of individuals and groups that played a key role.
+We extend our gratitude to all contributors and organizations that supported the development of the Parrot Optimizer. 
 
 ## License
 
@@ -56,19 +51,12 @@ The Parrot Optimizer is licensed under the [MIT License](LICENSE). Please review
 
 ## Contact Information
 
-If you have any questions, feedback, or collaboration inquiries, feel free to reach out to the authors. Visit the [Contact Information](Contact.md) section for details.
+If you have any questions, feedback, or collaboration inquiries, feel free to reach out to the as_heidari@ut.ac.ir
 
 ## Citation
 
-If you use the Parrot Optimizer in your academic research, please cite our paper. Find the suggested citation in the [Citation](Citation.md) section.
+If you use the Parrot Optimizer in your academic research, please cite our paper. 
 
-## Future Development
-
-Explore our plans for the future development of the Parrot Optimizer in the [Future Development](FutureDevelopment.md) section. We look forward to expanding its capabilities and features.
-
-## Case Studies
-
-Discover real-world applications of the Parrot Optimizer in the [Case Studies](CaseStudies.md) section. Explore success stories and practical implementations.
 
 ## Supplementary Files and Code
 
