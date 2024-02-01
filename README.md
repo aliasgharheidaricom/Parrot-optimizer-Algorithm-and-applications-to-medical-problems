@@ -5,6 +5,21 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
 ![GitHub language count](https://img.shields.io/github/languages/count/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
 ![GitHub last commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub issues](https://img.shields.io/github/issues/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub forks](https://img.shields.io/github/forks/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub stars](https://img.shields.io/github/stars/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub](https://img.shields.io/github/license/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub repo size](https://img.shields.io/github/repo-size/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub language count](https://img.shields.io/github/languages/count/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub last commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub issues](https://img.shields.io/github/issues/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub forks](https://img.shields.io/github/forks/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub stars](https://img.shields.io/github/stars/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+
 
 ## Overview
 
