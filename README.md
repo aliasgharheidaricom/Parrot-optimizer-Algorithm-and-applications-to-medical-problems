@@ -51,7 +51,7 @@ This repository houses the implementation of the PO algorithm, introduced and de
 
 ```matlab
 [N, Max_iter, lb, ub, dim, fobj] = set_your_parameters();
-[avg_fitness_curve, Best_pos, Best_score, curve, search_history, fitness_history] = PO(N, Max_iter, lb, ub, dim, fobj);
+[avg_fitness_curve, Best_pos, Best_score, curve, search_history, fitness_history] = PO(N, Max_iter, lb, ub, dim, fobj); ```
 
 
 ## Key Features
