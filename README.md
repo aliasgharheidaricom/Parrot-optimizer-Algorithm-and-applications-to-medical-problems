@@ -82,7 +82,18 @@ For detailed experiments, evaluation metrics, and results, refer to the [Applica
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to the Parrot Optimizer project, please contact as_heidari@ut.ac.ir
+We welcome contributions from the community! If you'd like to contribute to the Parrot Optimizer project, please contact us
+If you have any questions, suggestions, or feedback, feel free to reach out to the authors:
+
+- **Junbo Lian**
+  - Email: [junbolian@qq.com](mailto:junbolian@qq.com)
+
+- **Ali Asghar Heidari**
+  - Email: [as_heidari@ut.ac.ir](mailto:as_heidari@ut.ac.ir), [aliasghar68@gmail.com](mailto:aliasghar68@gmail.com)
+
+- **Huiling Chen**
+  - Email: [chenhuiling.jlu@gmail.com](mailto:chenhuiling.jlu@gmail.com)
+
 
 ## Acknowledgments
 
@@ -94,7 +105,17 @@ The Parrot Optimizer is licensed under the [MIT License](LICENSE). Please review
 
 ## Contact Information
 
-If you have any questions, feedback, or collaboration inquiries, feel free to reach out to the as_heidari@ut.ac.ir
+If you have any questions, feedback, or collaboration inquiries, feel free to reach out to us
+
+- **Junbo Lian**
+  - Email: [junbolian@qq.com](mailto:junbolian@qq.com)
+
+- **Ali Asghar Heidari**
+  - Email: [as_heidari@ut.ac.ir](mailto:as_heidari@ut.ac.ir), [aliasghar68@gmail.com](mailto:aliasghar68@gmail.com)
+
+- **Huiling Chen**
+  - Email: [chenhuiling.jlu@gmail.com](mailto:chenhuiling.jlu@gmail.com)
+
 
 ## Citation
 
