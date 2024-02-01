@@ -19,6 +19,41 @@ Welcome to the Parrot Optimizer repository! The Parrot Optimizer (PO) is an inno
 
 This repository houses the implementation of the PO algorithm, introduced and detailed in the research paper titled "Parrot optimizer: Algorithm and applications to medical problems." The paper, authored by Junbo Lian, Guohua Hui, Ling Ma, Ting Zhu, Xincan Wu, Ali Asghar Heidari, Yi Chen, and Huiling Chen, was published in Computers in Biology and Medicine in 2024.
 
+1. **Parameter Inputs:**
+   - `N`: Number of individuals in the population.
+   - `Max_iter`: Maximum number of iterations.
+   - `lb` and `ub`: Lower and upper bounds for the optimization variables.
+   - `dim`: Dimensionality of the problem.
+   - `fobj`: Objective function to be minimized.
+
+2. **Initialization:**
+   - The optimization process begins with the initialization of the population.
+
+3. **Foraging Behaviors:**
+   - The algorithm incorporates different foraging behaviors including searching, staying, communicating, and fear of strangers.
+
+4. **Levy Flight Strategy:**
+   - The Levy flight strategy is employed for exploration, enhancing the global search capability.
+
+5. **Boundary Control:**
+   - The algorithm ensures that individuals stay within the specified search space boundaries.
+
+6. **Sorting and Updating:**
+   - Individuals are sorted based on their fitness values, and the global best solution is updated accordingly.
+
+7. **Levy Search Strategy:**
+   - A Levy search strategy is used to balance exploration and exploitation.
+
+8. **Fitness Tracking:**
+   - Fitness values and positions are tracked throughout the optimization process.
+
+### Usage Example:
+
+```matlab
+[N, Max_iter, lb, ub, dim, fobj] = set_your_parameters();
+[avg_fitness_curve, Best_pos, Best_score, curve, search_history, fitness_history] = PO(N, Max_iter, lb, ub, dim, fobj);
+
+
 ## Key Features
 
 - Efficient optimization inspired by parrot behaviors.
