@@ -10,7 +10,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
 ![GitHub watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
 ![GitHub contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
-![GitHub](https://img.shields.io/github/license/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
 
 
 
