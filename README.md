@@ -1,8 +1,8 @@
-![GitHub](https://img.shields.io/github/license/aliasgharheidaricom/Parrot-Optimizer)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/Parrot-Optimizer)
-![GitHub repo size](https://img.shields.io/github/repo-size/aliasgharheidaricom/Parrot-Optimizer)
-![GitHub language count](https://img.shields.io/github/languages/count/aliasgharheidaricom/Parrot-Optimizer)
-![GitHub last commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/Parrot-Optimizer)
+![GitHub](https://img.shields.io/github/license/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub repo size](https://img.shields.io/github/repo-size/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub language count](https://img.shields.io/github/languages/count/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub last commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
 
 # Parrot optimizer: Algorithm and applications to medical problems 
 
