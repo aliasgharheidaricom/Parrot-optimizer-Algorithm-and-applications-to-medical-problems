@@ -34,7 +34,7 @@ Explore the applications of the Parrot Optimizer in medical image segmentation:
 - [Multi-Threshold Image Segmentation (MTIS)](Applications.md#multi-threshold-image-segmentation-mtis)
   - Learn about our approach combining non-local mean filtering, 2D histograms, Kapur entropy, and the Parrot Optimizer for enhanced segmentation of histopathology microscopy images.
 
-For detailed experiments, evaluation metrics, and results, refer to the [Applications.md](Applications.md) file.
+For detailed experiments, evaluation metrics, and results, refer to the [Applications.md](applications.md) file.
 
 
 ## Contributing
