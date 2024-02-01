@@ -15,7 +15,7 @@
 
 ## Overview
 
-This repository contains the source code for the Parrot Optimizer (PO), a novel optimization algorithm inspired by the behaviors of trained Pyrrhura Molinae parrots. The algorithm is introduced and detailed in the research paper titled "Parrot optimizer: Algorithm and applications to medical problems" by Junbo Lian, Guohua Hui, Ling Ma, Ting Zhu, Xincan Wu, Ali Asghar Heidari, Yi Chen, and Huiling Chen, published in Computers in Biology and Medicine, ELSEVIER-2024.
+This repository contains the source code for the Parrot Optimizer (PO), an efficient optimization algorithm inspired by the behaviors of trained Pyrrhura Molinae parrots. The algorithm is introduced and detailed in the research paper titled "Parrot optimizer: Algorithm and applications to medical problems" by Junbo Lian, Guohua Hui, Ling Ma, Ting Zhu, Xincan Wu, Ali Asghar Heidari, Yi Chen, and Huiling Chen, published in Computers in Biology and Medicine, 2024.
 
 ## Abstract
 
