@@ -129,6 +129,14 @@ If you have any questions, feedback, or collaboration inquiries, feel free to re
 ## Citation
 
 If you use the Parrot Optimizer in your academic research, please cite our paper. 
+Junbo Lian, Guohua Hui, Ling Ma, Ting Zhu, Xincan Wu, Ali Asghar Heidari, Yi Chen, Huiling Chen,
+Parrot optimizer: Algorithm and applications to medical problems,
+Computers in Biology and Medicine,
+2024,
+108064,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2024.108064.
+(https://www.sciencedirect.com/science/article/pii/S0010482524001483)
 
 
 ## Supplementary Files and Code
