@@ -1,28 +1,32 @@
-%---------------------------------------------------------------------------------------------------------------------------
-% PO 
+%___________________________________________________________________________________________________________________________________________________%
+% Parrot Optimizer (PO) source codes (version 2.0)
+% PO
 % Parrot optimizer: Algorithm and applications to medical problems
 % Website and codes of Parrot optimizer(PO):http://www.aliasgharheidari.com/PO.html
 
 % Junbo Lian, Guohua Hui, Ling Ma, Ting Zhu, Xincan Wu, Ali Asghar Heidari, Yi Chen, Huiling Chen
 
+% Last update: Apr 07 2024
 
-%  Last update: Jan 29 2023
+% E-Mail: as_heidari@ut.ac.ir, aliasghar68@gmail.com, chenhuiling.jlu@gmail.com 
+  
+%----------------------------------------------------------------------------------------------------------------------------------------------------%
 
-%  e-Mail: as_heidari@ut.ac.ir, aliasghar68@gmail.com, chenhuiling.jlu@gmail.com 
-%  
-%---------------------------------------------------------------------------------------------------------------------------
-%  Authors: Junbo Lian, Ali Asghar Heidari(as_heidari@ut.ac.ir, aliasghar68@gmail.com),Huiling Chen(chenhuiling.jlu@gmail.com) 
-%---------------------------------------------------------------------------------------------------------------------------
+% Authors: Junbo Lian (junbolian@qq.com), Ali Asghar Heidari(as_heidari@ut.ac.ir, aliasghar68@gmail.com), Huiling Chen(chenhuiling.jlu@gmail.com) 
+
+%----------------------------------------------------------------------------------------------------------------------------------------------------%
 
 % After use of code, please users cite to the main paper on Parrot optimizer (PO):
-% Junbo Lian, Guohua Hui, Ling Ma, Ting Zhu, Xincan Wu, Ali Asghar Heidari, Yi Chen, Huiling Chen
+% Junbo Lian, Guohua Hui, Ling Ma, Ting Zhu, Xincan Wu, Ali Asghar Heidari, Yi Chen, Huiling Chen*
 % Parrot optimizer: Algorithm and applications to medical problems
-%Computers in Biology and Medicine,ELSEVIER- 2024 
-%---------------------------------------------------------------------------------------------------------------------------
+% Computers in Biology and Medicine, ELSEVIER - 2024 
+
+%----------------------------------------------------------------------------------------------------------------------------------------------------%
 % You can also follow the paper for related updates in researchgate: 
+
 % https://www.researchgate.net/profile/Ali_Asghar_Heidari.
 
-%  Website and codes of Parrot optimizer (PO):%  http://www.aliasgharheidari.com/PO.html
+% Website and codes of Parrot optimizer (PO):%  http://www.aliasgharheidari.com/PO.html
 
 % You can also use and compare with our other new optimization methods:
                                                                        %(RIME)-2023-http://www.aliasgharheidari.com/RIME.html
@@ -31,20 +35,7 @@
                                                                        %(HGS)-2021- http://www.aliasgharheidari.com/HGS.html
                                                                        %(SMA)-2020- http://www.aliasgharheidari.com/SMA.html
                                                                        %(HHO)-2019- http://www.aliasgharheidari.com/HHO.html  
-
-%---------------------------------------------------------------------------------------------------------------------------
-
-%---------------------------------------------------------------------------------------------------------------------------
-
-
-%_______________________________________________________________________________________________________________              %
-%  Parrot Optimizer (PO) source codes (version 1.0)                                                                           %
-%                                                                                                                             %
-%  Developed in MATLAB R2023a                                                                                                 %
-%  Authors:  Junbo Lian; Guohua Hui; Ling Ma; Ting Zhu; Xincan Wu; Ali Asghar Heidari; Yi Chen; Huiling Chen                  %
-%  E-mail: Junbo Lian, Ali Asghar Heidari(as_heidari@ut.ac.ir, aliasghar68@gmail.com),Huiling Chen(chenhuiling.jlu@gmail.com) %
-%  Reference: Parrot optimizer: Algorithm and applications to medical problems (Computers in Biology and Medicine)            %
-%_________________________________________________________________________________________________________________            %
+%____________________________________________________________________________________________________________________________________________________%
 
 function [lb,ub,dim,fobj] = Get_Functions_details(F)
 

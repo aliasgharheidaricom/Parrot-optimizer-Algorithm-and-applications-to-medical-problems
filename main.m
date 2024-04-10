@@ -1,12 +1,12 @@
 %___________________________________________________________________________________________________________________________________________________%
-% Parrot Optimizer (PO) source codes (version 1.0)
+% Parrot Optimizer (PO) source codes (version 2.0)
 % Main function
 % Parrot optimizer: Algorithm and applications to medical problems
 % Website and codes of Parrot optimizer(PO):http://www.aliasgharheidari.com/PO.html
 
 % Junbo Lian, Guohua Hui, Ling Ma, Ting Zhu, Xincan Wu, Ali Asghar Heidari, Yi Chen, Huiling Chen
 
-% Last update: Jan 31 2023
+% Last update: Apr 07 2024
 
 % E-Mail: as_heidari@ut.ac.ir, aliasghar68@gmail.com, chenhuiling.jlu@gmail.com 
   
@@ -42,7 +42,7 @@ close all
 clear
 clc
 N = 30; % Number of search agents
-Function_name='F1'; % Name of the test function that can be from F1 to F23 
+Function_name='F14'; % Name of the test function that can be from F1 to F23 
 Max_iteration = 1000; % Maximum numbef of iterations
 
 % Load details of the selected benchmark function

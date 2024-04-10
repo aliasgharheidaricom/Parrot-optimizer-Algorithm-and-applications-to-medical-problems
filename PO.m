@@ -1,12 +1,12 @@
 %___________________________________________________________________________________________________________________________________________________%
-% Parrot Optimizer (PO) source codes (version 1.0)
+% Parrot Optimizer (PO) source codes (version 2.0)
 % PO
 % Parrot optimizer: Algorithm and applications to medical problems
 % Website and codes of Parrot optimizer(PO):http://www.aliasgharheidari.com/PO.html
 
 % Junbo Lian, Guohua Hui, Ling Ma, Ting Zhu, Xincan Wu, Ali Asghar Heidari, Yi Chen, Huiling Chen
 
-% Last update: Jan 31 2023
+% Last update: Apr 07 2024
 
 % E-Mail: as_heidari@ut.ac.ir, aliasghar68@gmail.com, chenhuiling.jlu@gmail.com 
   
@@ -82,7 +82,7 @@ for i = 1:Max_iter
         St = randi([1, 4]);
         % foraging behavior
         if St == 1
-                X_new(j, :) = (X(j, :) - GBestX) .* Levy(dim) + rand(1) * mean(X(j, :)) * (1 - i / Max_iter) ^ (2 * i / Max_iter);
+                X_new(j, :) = (X(j, :) - GBestX) .* Levy(dim) + rand(1) * mean(X) * (1 - i / Max_iter) ^ (2 * i / Max_iter);
 
         % staying behavior
         elseif St == 2
@@ -92,7 +92,7 @@ for i = 1:Max_iter
         elseif St == 3
                 H = rand(1);
                 if H < 0.5
-                    X_new(j, :) = X(j, :) + alpha * (1 - i / Max_iter) * (X(j, :) - mean(X(j, :)));
+                    X_new(j, :) = X(j, :) + alpha * (1 - i / Max_iter) * (X(j, :) - mean(X));
                 else
                     X_new(j, :) = X(j, :) + alpha * (1 - i / Max_iter) * exp(-j / (rand(1) * Max_iter));
                 end
@@ -102,41 +102,50 @@ for i = 1:Max_iter
         end
 
         % Boundary control
-        for j = 1:N
+        for m = 1:N
             for a = 1:dim
-                if (X_new(j, a) > ub(a))
-                    X_new(j, a) = ub(a);
+                if (X_new(m, a) > ub(a))
+                    X_new(m, a) = ub(a);
                 end
-                if (X_new(j, a) < lb(a))
-                    X_new(j, a) = lb(a);
+                if (X_new(m, a) < lb(a))
+                    X_new(m, a) = lb(a);
                 end
             end
+        end
+       
+        % Finding the best location so far
+        if fobj(X_new(j, :)) < GBestF
+            GBestF = fobj(X_new(j, :));
+            GBestX = X_new(j, :);
         end
 
-        % Update positions
-        for j = 1:N
-            fitness_new(j) = fobj(X_new(j, :));
-        end
-        for j = 1:N
-            if (fitness_new(j) < GBestF)
-                GBestF = fitness_new(j);
-                GBestX = X_new(j, :);
-            end
-        end
-        X = X_new;
-        fitness = fitness_new;
-        
-        % Sorting and updating
-        [fitness, index] = sort(fitness); % sort
-        for j = 1:N
-            X(j, :) = X(index(j), :);
-        end
-        curve(i) = GBestF;
     end
+    
+    % Update positions
+    for s = 1:N
+        fitness_new(s) = fobj(X_new(s, :));
+    end
+    for s = 1:N
+        if (fitness_new(s) < GBestF)
+            GBestF = fitness_new(s);
+            GBestX = X_new(s, :);
+        end
+    end
+    X = X_new;
+    fitness = fitness_new;
+        
+    % Sorting and updating
+    [fitness, index] = sort(fitness); % sort
+    for s = 1:N
+        X0(s, :) = X(index(s), :);
+    end
+    X = X0;
+    curve(i) = GBestF;
     Best_pos = GBestX;
     Best_score = curve(end);
     search_history(:, i, :) = X;
     fitness_history(:, i) = fitness;
+
 end
 
 %%  Levy search strategy
