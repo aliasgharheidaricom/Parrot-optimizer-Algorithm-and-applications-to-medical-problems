@@ -11,8 +11,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
 ![GitHub contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
 
-NOTICE: Version 2 uploaded in 4 10 2024- run bugs fixed
-please make sure you are using latest version
+NOTICE: Version 2, uploaded on April 4th, 2024, has addressed all known bugs. Please ensure that you are using the latest version.
 
 ## Introduction
 
