@@ -11,6 +11,9 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
 ![GitHub contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
 
+NOTICE: Version 2 uploaded in 4 10 2024- run bugs fixed
+please make sure you are using latest version
+
 ## Introduction
 
 Welcome to the Parrot Optimizer repository! The Parrot Optimizer (PO) is an innovative optimization algorithm inspired by the behaviors of trained Pyrrhura Molinae parrots. This repository contains the source code for the PO, along with comprehensive documentation to help you understand and utilize this powerful optimization tool.
