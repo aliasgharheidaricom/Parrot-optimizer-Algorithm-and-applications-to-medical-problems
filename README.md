@@ -88,7 +88,28 @@ For detailed experiments, evaluation metrics, and results, refer to the [Applica
 
 ![Flowchart of MTIS Method](The%20flowchart%20of%20MTIS%20method.png)
 
+## Comparing Parrot-optimizer (PO) with State-of-the-art Algorithms
 
+To compare the performance of the Parrot-optimizer with other optimization algorithms provided in this repository, follow these steps:
+
+1. Download the zip files containing the other optimization algorithms from the repository:
+  - [Compare Parrot optimizer with Artemisinin Optimization.zip](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems/blob/main/Compare%20Parrot%20Optimizer%20with%20Artemisinin%20Optimization%20(AO).zip)
+   - [Compare Parrot optimizer with Harris Hawk Optimizer (HHO).zip](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems/blob/main/Compare%20Parrot%20Optimizer%20with%20Harris%20Hawk%20Optimizer%20(HHO).zip)
+   - [Compare Parrot optimizer with Hunger games search (HGS).zip](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems/blob/main/Compare%20Parrot%20Optimizer%20with%20Hunger%20games%20search%20(HGS).zip)
+   - [Compare Parrot optimizer with RIME optimizer.zip](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems/blob/main/Compare%20Parrot%20Optimizer%20with%20RIME%20optimizer.zip)
+   - [Compare Parrot optimizer with Runge Kutta Optimization (RUN).zip](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems/blob/main/Compare%20Parrot%20Optimizer%20with%20Runge%20Kutta%20Optimization%20(RUN).zip)
+   - [Compare Parrot optimizer with Slime mould algorithm (SMA).zip](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems/blob/main/Compare%20Parrot%20Optimizer%20with%20Slime%20mould%20algorithm%20(SMA).zip)
+   - [Compare Parrot optimizer with Weighted Mean of Vectors (INFO) optimizer.zip](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems/blob/main/Compare%20Parrot%20Optimizer%20with%20Weighted%20Mean%20of%20Vectors%20(INFO)%20optimizer.zip)
+
+3. Extract the contents of each zip file to your local machine.
+
+4. Run each optimization algorithm using the provided code or executable files.
+
+5. Evaluate and compare the performance of each algorithm based on predefined metrics or criteria.
+
+6. Share your findings and insights with the community by contributing to the respective repositories or sharing your analysis in academic papers or forums.
+
+Feel free to explore and analyze the performance of theParrot optimizer compared to other state-of-the-art optimization algorithms. If you have any questions or need assistance, don't hesitate to reach out to the authors or the respective communities of each optimization algorithm.
 
 ## Contributing
 
