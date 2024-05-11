@@ -93,7 +93,7 @@ For detailed experiments, evaluation metrics, and results, refer to the [Applica
 To compare the performance of the Parrot-optimizer with other optimization algorithms provided in this repository, follow these steps:
 
 1. Download the zip files containing the other optimization algorithms from the repository:
-  - [Compare Parrot optimizer with Artemisinin Optimization.zip](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems/blob/main/Compare%20Parrot%20Optimizer%20with%20Artemisinin%20Optimization%20(AO).zip)
+  - [Compare Parrot optimizer with Artemisinin Optimization (AO).zip](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems/blob/main/Compare%20Parrot%20Optimizer%20with%20Artemisinin%20Optimization%20(AO).zip)
    - [Compare Parrot optimizer with Harris Hawk Optimizer (HHO).zip](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems/blob/main/Compare%20Parrot%20Optimizer%20with%20Harris%20Hawk%20Optimizer%20(HHO).zip)
    - [Compare Parrot optimizer with Hunger games search (HGS).zip](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems/blob/main/Compare%20Parrot%20Optimizer%20with%20Hunger%20games%20search%20(HGS).zip)
    - [Compare Parrot optimizer with RIME optimizer.zip](https://github.com/aliasgharheidaricom/Parrot-optimizer-Algorithm-and-applications-to-medical-problems/blob/main/Compare%20Parrot%20Optimizer%20with%20RIME%20optimizer.zip)
